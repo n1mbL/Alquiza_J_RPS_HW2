@@ -1,14 +1,16 @@
-# Project Name
+<img src="rockPaperScissorsLizardSpock.png" alt="graphic of Rock Paper Scissors Lizard Spock" width="300px">
+
+# Rock Paper Scissors Lizard Spock!
 
 TODO: Write a project description
 
 ## Installation
 
-TODO: Describe the installation process
+First project built in Python 3; you may need to update you local installation(s) here.
 
-## Usage
-
-TODO: Write usage instructions
+Windows:Get Phyton 3!
+Mac (should be built in): Upgrade to Python 3
+Lunix (should be built in): Upgrade to Python 3
 
 ## Contributing
 
@@ -18,14 +20,14 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+TODO: Write credits --> list yourself, team members, anywhere where you are getting references (code, visual references, etc.)
 
 ## License
 
-TODO: Write license
+MIT
+MSS
+
+Made a change

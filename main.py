@@ -1,9 +1,6 @@
-name = "Spock"
-eyeColor = "black"
-fingers = int(10)
-score = 0
+# save the player as a variable called player
+# the value of player will be one of the five choices to type (input)
 
-print ("-------------")
+player = input("Choose rock, paper, scissors, lizard, Spock: ")
 
-print ("My name is " + name + " and I have " + eyeColor + " eyes.")
-print ("I also have " + str(fingers) + " fingers on my two hands.")
+print("player chose: " + player)
